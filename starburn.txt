@@ -1,0 +1,12 @@
+﻿6/1 22:03:39.276 (6e8)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2024. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2024. All rights reserved.
+
+Started - Sat Jun 01 22:03:39 2024
+.
+
+6/1 22:03:39.276 (6e8)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
